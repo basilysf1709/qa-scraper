@@ -8,8 +8,8 @@ This project is a simple C++ scraper that uses `libcurl` for making HTTP request
 
 ## Quick Start
 1. Clone the repository: 
-git clone [Your Repository URL]
-cd [Your Repository Directory]
+   - git clone https://github.com/basilysf1709/qa-scraper.git
+   - cd qa-scraper
 2. Build the Docker image:
 docker build -t scraper .
 3. Run the application in a Docker container:
